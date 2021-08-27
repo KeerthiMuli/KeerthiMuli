@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KeerthiMuli
-- 👀 I’m interested in ...Full Stack Development
-- 🌱 I’m currently learning ...Project Management
+- 👋 Hi, I’m @Keerthi Muli
+- 👀 I’m interested in ...Jav Full Stack Development
+- 🌱 I’m currently learning ...Java SpringBoot
 - 💞️ I’m looking to collaborate on ...Java
 - 📫 How to reach me ...On Microsoft Teams as Keerthi Muli
 
